@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   app:
-    image: kimseongni/my-spring-app:latest
+    image: kimseongni/SH_JPA:latest
     container_name: spring-backend
     ports:
       - "8080:8080"
